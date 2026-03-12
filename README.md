@@ -22,3 +22,7 @@ User Message → AI Agent → Gemini Model → Memory → Response
 2. Add your Google Gemini API key
 3. Run the workflow
 4. Start chatting with the AI agent
+
+## Architecture 
+
+User Message → AI Agent → Gemini Model → Memory → Response
